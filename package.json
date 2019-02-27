@@ -1,0 +1,16 @@
+{
+  "name": "web-push-njs",
+  "version": "0.1.0",
+  "description": "Web Push Notifications using NodeJS",
+  "main": "index.js",
+  "scripts": {
+      "start": "nodemon index.js"
+  },
+  "author": "Patryk Adamczyk <patrykadamczyk@patrykadamczyk.net>",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "web-push": "^3.3.3"
+  }
+}

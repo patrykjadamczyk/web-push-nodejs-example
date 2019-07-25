@@ -9,7 +9,7 @@
   "author": "Patryk Adamczyk <patrykadamczyk@patrykadamczyk.net>",
   "license": "MIT",
   "dependencies": {
-    "body-parser": "^1.18.3",
+    "body-parser": "^1.19.0",
     "express": "^4.17.1",
     "web-push": "^3.3.5"
   }
